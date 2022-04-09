@@ -1,346 +1,346 @@
 "../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/2D/Textures/T_ConstructionIcon.uasset" 0
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Water/TX_WaterNormal.uasset" 1
-"../../../Engine/Content/MapTemplates/TilingNoise05.uasset" 2
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/MaterialFunctions/MF_TopDownMask.uasset" 3
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 4
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/BoxMask-2D.uasset" 5
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/M_Water.uasset" 6
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/MI_Water.uasset" 7
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/M_Transparent_Master.uasset" 8
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/Terrain/M_ProceduralTerrain_Master.uasset" 9
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 10
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/SpiralBlur-SceneTexture.uasset" 11
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 12
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/PostProcessing/PPM_DepthOfField.uasset" 13
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 14
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/UI/Text/M_Translucenttext.uasset" 15
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/BP_GameHUD.uasset" 16
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/BP_GameInstance.uasset" 17
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Player/BP_PlayerPawn.uasset" 18
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 19
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 20
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 21
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 22
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/UI/M_CircularProgressBar.uasset" 23
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/2D/Textures/T_ResourceIcon.uasset" 24
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/InWorld/WBP_CircularProgressBar.uasset" 25
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/BP_InWorld_Base.uasset" 26
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 27
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 28
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 29
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 30
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 31
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 32
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 33
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Data/DataTables/DT_TextData.uasset" 34
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_SelectedBuildingMenu.uasset" 35
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Data/Enums/E_BuildingTypes.uasset" 36
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Data/ParameterCollections/MPC_UIColors.uasset" 37
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_HUDIndicatorBar.uasset" 38
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Data/Structs/ST_BuildingPrices.uasset" 39
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Data/DataTables/DT_BuildingsData.uasset" 40
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_ToolTipUI.uasset" 41
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/Buttons/WBP_BuildingButton.uasset" 42
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 43
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/Buttons/WBP_ResearchButton.uasset" 44
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/2D/Textures/T_ResearchIcon.uasset" 45
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_ResearchTree.uasset" 46
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/BuildingMenus/WBP_ResearchBuildMenu.uasset" 47
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/BuildingMenus/WBP_ProductionBuildMenu.uasset" 48
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/BuildingMenus/WBP_HousingBuildMenu.uasset" 49
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/2D/Textures/T_ScienceIcon.uasset" 50
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/2D/Textures/T_ProductionIcon.uasset" 51
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/2D/Textures/T_LeisureIcon.uasset" 52
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_BuildMenu.uasset" 53
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_SelectedResourceMenu.uasset" 54
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_HUD.uasset" 55
-"../../../Engine/Content/MaterialTemplates/Textures/T_Noise01.uasset" 56
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 57
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 58
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 59
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 60
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/2D/Textures/Environment/T_GlobalColorMap.uasset" 61
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/M_BaseMaterial.uasset" 62
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/BPC_SelectableComp.uasset" 63
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/SelectableComps/BP_Selectable_Building.uasset" 64
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 65
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 66
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Blueprints/WBP_ButtonWidget.uasset" 67
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_GameOverScreen.uasset" 68
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Libraries/BFL_GlobalFunctionLibrary.uasset" 69
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 70
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 71
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 72
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_House_01.uasset" 73
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Base.uasset" 74
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_TownCenter_01.uasset" 75
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_TownCenter.uasset" 76
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Tavern.uasset" 77
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Tailor.uasset" 78
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_SchoolHouse.uasset" 79
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Pasture.uasset" 80
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Mine_01.uasset" 81
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Mine.uasset" 82
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Market.uasset" 83
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Lumbermill.uasset" 84
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Library.uasset" 85
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_IronMine.uasset" 86
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_HuntingCabin.uasset" 87
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_House_02.uasset" 88
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_House.uasset" 89
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_HouseT2.uasset" 90
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Farm_01.uasset" 91
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Farm.uasset" 92
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Dock.uasset" 93
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Church.uasset" 94
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Carpenter.uasset" 95
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Blacksmith.uasset" 96
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/M_Transparent_Master.uasset" 1
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/MaterialFunctions/MF_TopDownMask.uasset" 2
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/Terrain/M_ProceduralTerrain_Master.uasset" 3
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 4
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/SpiralBlur-SceneTexture.uasset" 5
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 6
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/PostProcessing/PPM_DepthOfField.uasset" 7
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 8
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/BoxMask-2D.uasset" 9
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/PostProcessing/PPM_Water.uasset" 10
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 11
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/UI/Text/M_Translucenttext.uasset" 12
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/BP_GameHUD.uasset" 13
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/BP_GameInstance.uasset" 14
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Player/BP_PlayerPawn.uasset" 15
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/GS_CityBuilderGameState.uasset" 16
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 17
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 18
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/2D/Textures/Environment/T_GlobalEmissiveMap.uasset" 19
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/2D/Textures/Environment/T_GlobalColorMap.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 22
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 23
+"../../../Engine/Content/MaterialTemplates/Textures/T_Noise01.uasset" 24
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/M_BaseMaterial.uasset" 25
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 26
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 27
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 28
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Sphere_01.uasset" 29
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_House_01.uasset" 30
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/M_Placeable.uasset" 31
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/MI_InvalidPlacement.uasset" 32
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_DummyBuilding.uasset" 33
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/InWorld/WBP_PlacementWarningWidget.uasset" 34
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/MI_GlobalColorMaterial.uasset" 35
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/2D/Textures/T_ResourceIcon.uasset" 36
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 37
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 38
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 39
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 40
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/UI/M_CircularProgressBar.uasset" 41
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/InWorld/WBP_CircularProgressBar.uasset" 42
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 43
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 44
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 45
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 46
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 47
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 48
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 49
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Data/DataTables/DT_TextData.uasset" 50
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/BP_InWorld_Base.uasset" 51
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_SelectedBuildingMenu.uasset" 52
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Data/ParameterCollections/MPC_UIColors.uasset" 53
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_HUDIndicatorBar.uasset" 54
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Data/Structs/ST_BuildingPrices.uasset" 55
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Data/Enums/E_BuildingTypes.uasset" 56
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Data/DataTables/DT_BuildingsData.uasset" 57
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/Data/STGT_CommonText.uasset" 58
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_BuildingButtonToolTip.uasset" 59
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/2D/Textures/T_LeisureIcon.uasset" 60
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/Buttons/WBP_BuildingButton.uasset" 61
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_ToolTipUI.uasset" 62
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/2D/Textures/T_ResearchIcon.uasset" 63
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/Buttons/WBP_ResearchButton.uasset" 64
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_ResearchTree.uasset" 65
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/BuildingMenus/WBP_ResearchBuildMenu.uasset" 66
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/BuildingMenus/WBP_ProductionBuildMenu.uasset" 67
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/BuildingMenus/WBP_HousingBuildMenu.uasset" 68
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/2D/Textures/T_ScienceIcon.uasset" 69
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/2D/Textures/T_ProductionIcon.uasset" 70
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_BuildMenu.uasset" 71
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_SelectedResourceMenu.uasset" 72
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_HUD.uasset" 73
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/BPC_SelectableComp.uasset" 74
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/SelectableComps/BP_Selectable_Building.uasset" 75
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Base.uasset" 76
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/MI_ValidPlacement.uasset" 77
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/BPC_PlaceableComp.uasset" 78
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Data/Enums/E_ResourceTypes.uasset" 79
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/SelectableComps/BP_Selectable_Resource.uasset" 80
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Rock_01.uasset" 81
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Resources/BP_Resource_Base.uasset" 82
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Resources/BP_Resource_Stone.uasset" 83
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/PlaceableComps/BPC_Placeable_Mine.uasset" 84
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Tree_01.uasset" 85
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Resources/BP_Resource_Wood.uasset" 86
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/PlaceableComps/BPC_Placeable_LumberMill.uasset" 87
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/PlaceableComps/BPC_Placeable_House.uasset" 88
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/PlaceableComps/BPC_Placeable_Farm.uasset" 89
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/PlaceableComps/BPC_Placeable_Dock.uasset" 90
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Geometry/Meshes/CubeMaterial.uasset" 91
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Geometry/Meshes/1M_Cube.uasset" 92
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_PlacedBuilding.uasset" 93
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Farm_01.uasset" 94
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Farm.uasset" 95
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Dock.uasset" 96
 "../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Data/MPC_PN_GlobalSettings.uasset" 97
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/StyledRadioButton_02.uasset" 98
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Textures/T_ButtonPress.uasset" 99
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Textures/T_ButtonHover.uasset" 100
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Textures/T_Button.uasset" 101
-"../../Plugins/Marketplace/AutoSettings/Content/Spinner/T_ArrowRight.uasset" 102
-"../../Plugins/Marketplace/AutoSettings/Content/Spinner/M_ArrowRight.uasset" 103
-"../../Plugins/Marketplace/AutoSettings/Content/Spinner/M_ArrowLeft.uasset" 104
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/StyledSpinner.uasset" 105
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/SettingControls/StyledSpinnerSetting.uasset" 106
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 107
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/SettingControls/StyledComboBoxSetting.uasset" 108
-"../../Plugins/Marketplace/AutoSettings/Content/SettingControls/DefaultCheckBoxSetting.uasset" 109
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/StyledRadioButton.uasset" 110
-"../../Plugins/Marketplace/AutoSettings/Content/RadioSelect/DefaultRadioButton.uasset" 111
-"../../Plugins/Marketplace/AutoSettings/Content/RadioSelect/HorizontalRadioSelect.uasset" 112
-"../../Plugins/Marketplace/AutoSettings/Content/SettingControls/DefaultRadioSelectSetting.uasset" 113
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/SettingControls/StyledSliderSetting.uasset" 114
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/WBP_SettingsSeparater.uasset" 115
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/SettingRow_Command.uasset" 116
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Pages/VideoSettingsPage.uasset" 117
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledKeyLabel.uasset" 118
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledAxisLabel.uasset" 119
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledBindCapturePrompt.uasset" 120
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledBindCaptureButton.uasset" 121
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledAxisMapping.uasset" 122
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledKeySeparator.uasset" 123
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledActionLabel.uasset" 124
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledActionMapping.uasset" 125
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/InputRow.uasset" 126
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Pages/InputSettingsPage.uasset" 127
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Pages/GameplaySettingsPage.uasset" 128
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Pages/AudioSettingsPage.uasset" 129
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Blueprints/MainMenu/WBP_MainMenuWidget.uasset" 130
-"../../Plugins/Marketplace/AutoSettings/Content/RadioSelect/VerticalRadioSelect.uasset" 131
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/SettingsUI.uasset" 132
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/PauseMenu/WBP_PauseMenu.uasset" 133
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Data/Enums/E_ResourceTypes.uasset" 134
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/SelectableComps/BP_Selectable_Resource.uasset" 135
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Rock_01.uasset" 136
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Resources/BP_Resource_Base.uasset" 137
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Resources/BP_Resource_Stone.uasset" 138
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/M_Placeable.uasset" 139
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/MI_ValidPlacement.uasset" 140
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/MI_InvalidPlacement.uasset" 141
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Sphere_01.uasset" 142
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_DummyBuilding.uasset" 143
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/InWorld/WBP_PlacementWarningWidget.uasset" 144
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/BPC_PlaceableComp.uasset" 145
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/PlaceableComps/BPC_Placeable_Mine.uasset" 146
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Tree_01.uasset" 147
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Resources/BP_Resource_Wood.uasset" 148
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/PlaceableComps/BPC_Placeable_LumberMill.uasset" 149
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/PlaceableComps/BPC_Placeable_House.uasset" 150
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/PlaceableComps/BPC_Placeable_Farm.uasset" 151
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/PlaceableComps/BPC_Placeable_Dock.uasset" 152
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Workshop.uasset" 153
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_TradingPost.uasset" 154
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_TownHall.uasset" 155
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_TradingPost_01.uasset" 156
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Tavern_01.uasset" 157
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Tailor_01.uasset" 158
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Market_01.uasset" 159
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Lumbermill_01.uasset" 160
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_House_03.uasset" 161
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Dock_01.uasset" 162
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Blacksmith_01.uasset" 163
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Blockout/SM_Cube.uasset" 164
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Player/PC_CityBuilderPlayer.uasset" 165
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/GM_CityBuilder.uasset" 166
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/GS_CityBuilderGameState.uasset" 167
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Libraries/BML_GlobalMacroLibrary.uasset" 168
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Data/LandscapeGrassTypes/LGT_Grass_01.uasset" 169
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/ALP-.uasset" 170
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/Anso-.uasset" 171
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/BLCH-.uasset" 172
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/Copper-.uasset" 173
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/CRM-.uasset" 174
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/CUS-.uasset" 175
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/DT6-.uasset" 176
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/DT7-.uasset" 177
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/DT8-.uasset" 178
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/FDD-.uasset" 179
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/FTA-.uasset" 180
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/GAM-.uasset" 181
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/HIL.uasset" 182
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/HOL-.uasset" 183
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/HPP-.uasset" 184
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/ISM-.uasset" 185
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/MGR-.uasset" 186
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/MT-.uasset" 187
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/MTX-.uasset" 188
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/NGH-.uasset" 189
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/Noir-.uasset" 190
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/Noir_02-.uasset" 191
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/Noir_03-.uasset" 192
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/Noir_04-.uasset" 193
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/NRD-.uasset" 194
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/NTO-.uasset" 195
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/ONT-.uasset" 196
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/ORB-.uasset" 197
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/OXT-.uasset" 198
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/PLT-.uasset" 199
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/PMT-.uasset" 200
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/PST-.uasset" 201
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/SFL-.uasset" 202
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/STR-.uasset" 203
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/TUS-.uasset" 204
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/UST-.uasset" 205
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/WOP-.uasset" 206
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/ALP+.uasset" 207
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/Anso+.uasset" 208
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/BLCH+.uasset" 209
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/Copper+.uasset" 210
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/CRM+.uasset" 211
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/CUS+.uasset" 212
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/DT6+.uasset" 213
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/DT7+.uasset" 214
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/DT8+.uasset" 215
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/FDD+.uasset" 216
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/FTA+.uasset" 217
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/GAM+.uasset" 218
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/HIL+.uasset" 219
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/HOL+.uasset" 220
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/HPP+.uasset" 221
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/ISM+.uasset" 222
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/MGR+.uasset" 223
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/MT+.uasset" 224
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/MTX+.uasset" 225
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/NGH+.uasset" 226
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/Noir+.uasset" 227
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/Noir_02+.uasset" 228
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/Noir_03+.uasset" 229
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/Noir_04+.uasset" 230
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/NRD+.uasset" 231
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/NTO+.uasset" 232
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/ONT+.uasset" 233
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/ORB+.uasset" 234
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/OXT+.uasset" 235
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/PLT+.uasset" 236
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/PMT+.uasset" 237
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/PST+.uasset" 238
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/SFL+.uasset" 239
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/STR+.uasset" 240
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/TUS+.uasset" 241
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/UST+.uasset" 242
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/WOP+.uasset" 243
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/ALP.uasset" 244
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/BLCH.uasset" 245
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/FDD.uasset" 246
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/FTA.uasset" 247
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/GAM.uasset" 248
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/NOIR_02.uasset" 249
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/NOIR_03.uasset" 250
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/NOIR_04.uasset" 251
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/NTO.uasset" 252
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/ONT.uasset" 253
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/PTM.uasset" 254
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/SFL.uasset" 255
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/TUS.uasset" 256
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/WOP.uasset" 257
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 258
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 259
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/SkyGradientCurve_02.uasset" 260
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/SkyGradientCurve_01.uasset" 261
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_ValleyMist1.uasset" 262
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_MountainsSun1_2.uasset" 263
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_MountainsSun1.uasset" 264
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_MountainsNear1_2.uasset" 265
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_MountainsNear1.uasset" 266
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_MountainsFar1_2.uasset" 267
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_MountainsFar1.uasset" 268
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_Mist.uasset" 269
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_Interactable1.uasset" 270
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_Forest5.uasset" 271
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_Forest4.uasset" 272
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_Forest3.uasset" 273
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_Forest2.uasset" 274
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_Forest1.uasset" 275
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/T_FogGradients.uasset" 276
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/MaterialFunctions/MF_GradientSample.uasset" 277
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothStep.uasset" 278
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/MaterialFunctions/MF_FogGradient.uasset" 279
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/MaterialFunctions/MF_DirectionDot.uasset" 280
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/MaterialFunctions/MF_ColourScale.uasset" 281
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/M_FogMaster.uasset" 282
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_Interaction.uasset" 283
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/M_FogInteractorGlow.uasset" 284
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Blueprints/BP_ExampleFogInteractor.uasset" 285
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_3Directions.uasset" 286
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_4Directions.uasset" 287
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_Forest1.uasset" 288
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_Forest2.uasset" 289
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_Forest3.uasset" 290
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_Forest4.uasset" 291
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_LargeTerrain1.uasset" 292
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_Mist.uasset" 293
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Billboard_Tree_Small_01.uasset" 294
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Billboard_Tree_Large_01.uasset" 295
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ComponentPivotLocation.uasset" 296
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 297
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/Sprite.uasset" 298
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 299
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/M_Billboard_Master.uasset" 300
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_TreeBillBoard_02.uasset" 301
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Leaf_01.uasset" 302
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset" 303
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 304
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectPivotPoint.uasset" 305
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 306
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/MF_WindBend.uasset" 307
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/MF_SnowCoverage.uasset" 308
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 309
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 310
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/M_Leaf_Master.uasset" 311
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_Leaf_01.uasset" 312
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Bark_Birch_NRM.uasset" 313
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Bark_Birch_COL.uasset" 314
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/M_Bark_Master.uasset" 315
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_Bark_Birch_01.uasset" 316
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Tree_Small_01.uasset" 317
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Small_Tree_01.uasset" 318
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Grass_01.uasset" 319
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 320
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 321
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 322
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Grass_01_COL.uasset" 323
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/RTV_Landscape.uasset" 324
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/M_Grass_Master.uasset" 325
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_Grass_02.uasset" 326
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Grass_01.uasset" 327
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Grass_01.uasset" 328
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Data/FoliageData/PFS_FoliageSpawner.uasset" 329
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_Grass_01.uasset" 330
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Rocks/TX_Rocks_01_ROUGH.uasset" 331
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Rocks/TX_Rocks_01_COL.uasset" 332
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Rocks/TX_Rocks_01_NRM.uasset" 333
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/M_Rock_Master.uasset" 334
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Rocks/MI_Rock_Moss_01.uasset" 335
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Sand_01_NRM.uasset" 336
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Sand_01_COL.uasset" 337
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Rock_01_NRM.uasset" 338
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Rock_01_COL.uasset" 339
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Dirt_01_NRM.uasset" 340
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Dirt_01_COL.uasset" 341
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 342
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 98
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 99
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Blueprints/WBP_ButtonWidget.uasset" 100
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_ModalPopUp.uasset" 101
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/StyledRadioButton_02.uasset" 102
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Textures/T_ButtonPress.uasset" 103
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Textures/T_ButtonHover.uasset" 104
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Textures/T_Button.uasset" 105
+"../../Plugins/Marketplace/AutoSettings/Content/Spinner/T_ArrowRight.uasset" 106
+"../../Plugins/Marketplace/AutoSettings/Content/Spinner/M_ArrowRight.uasset" 107
+"../../Plugins/Marketplace/AutoSettings/Content/Spinner/M_ArrowLeft.uasset" 108
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/StyledSpinner.uasset" 109
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/SettingControls/StyledSpinnerSetting.uasset" 110
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 111
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/SettingControls/StyledComboBoxSetting.uasset" 112
+"../../Plugins/Marketplace/AutoSettings/Content/SettingControls/DefaultCheckBoxSetting.uasset" 113
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/StyledRadioButton.uasset" 114
+"../../Plugins/Marketplace/AutoSettings/Content/RadioSelect/DefaultRadioButton.uasset" 115
+"../../Plugins/Marketplace/AutoSettings/Content/RadioSelect/HorizontalRadioSelect.uasset" 116
+"../../Plugins/Marketplace/AutoSettings/Content/SettingControls/DefaultRadioSelectSetting.uasset" 117
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/SettingControls/StyledSliderSetting.uasset" 118
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/WBP_SettingsSeparater.uasset" 119
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/SettingRow_Command.uasset" 120
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Pages/VideoSettingsPage.uasset" 121
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledKeyLabel.uasset" 122
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledAxisLabel.uasset" 123
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledBindCapturePrompt.uasset" 124
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledBindCaptureButton.uasset" 125
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledAxisMapping.uasset" 126
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledKeySeparator.uasset" 127
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledActionLabel.uasset" 128
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/StyledAutoSettings/Input/StyledActionMapping.uasset" 129
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/InputRow.uasset" 130
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Pages/InputSettingsPage.uasset" 131
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Pages/GameplaySettingsPage.uasset" 132
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Pages/AudioSettingsPage.uasset" 133
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Blueprints/MainMenu/WBP_MainMenuWidget.uasset" 134
+"../../Plugins/Marketplace/AutoSettings/Content/RadioSelect/VerticalRadioSelect.uasset" 135
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/SettingsUI.uasset" 136
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/PauseMenu/WBP_PauseMenu.uasset" 137
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Dock_01.uasset" 138
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Blacksmith_01.uasset" 139
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_TradingPost_01.uasset" 140
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Tavern_01.uasset" 141
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Tailor_01.uasset" 142
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Mine_01.uasset" 143
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Market_01.uasset" 144
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_Lumbermill_01.uasset" 145
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_House_03.uasset" 146
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_House_02.uasset" 147
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Blockout/SM_Cube.uasset" 148
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/UI/Blueprints/HUD/WBP_GameOverScreen.uasset" 149
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Workshop.uasset" 150
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_TradingPost.uasset" 151
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_TownHall.uasset" 152
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Buildings/SM_TownCenter_01.uasset" 153
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_TownCenter.uasset" 154
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Tavern.uasset" 155
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Tailor.uasset" 156
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_SchoolHouse.uasset" 157
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Pasture.uasset" 158
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Mine.uasset" 159
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Market.uasset" 160
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Lumbermill.uasset" 161
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Library.uasset" 162
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_IronMine.uasset" 163
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_HuntingCabin.uasset" 164
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_House.uasset" 165
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_HouseT2.uasset" 166
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Church.uasset" 167
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Carpenter.uasset" 168
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Buidings/BP_Building_Blacksmith.uasset" 169
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Player/PC_CityBuilderPlayer.uasset" 170
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/GM_CityBuilder.uasset" 171
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Libraries/BML_GlobalMacroLibrary.uasset" 172
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Data/LandscapeGrassTypes/LGT_Grass_01.uasset" 173
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/ALP-.uasset" 174
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/Anso-.uasset" 175
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/BLCH-.uasset" 176
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/Copper-.uasset" 177
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/CRM-.uasset" 178
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/CUS-.uasset" 179
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/DT6-.uasset" 180
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/DT7-.uasset" 181
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/DT8-.uasset" 182
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/FDD-.uasset" 183
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/FTA-.uasset" 184
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/GAM-.uasset" 185
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/HIL.uasset" 186
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/HOL-.uasset" 187
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/HPP-.uasset" 188
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/ISM-.uasset" 189
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/MGR-.uasset" 190
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/MT-.uasset" 191
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/MTX-.uasset" 192
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/NGH-.uasset" 193
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/Noir-.uasset" 194
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/Noir_02-.uasset" 195
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/Noir_03-.uasset" 196
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/Noir_04-.uasset" 197
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/NRD-.uasset" 198
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/NTO-.uasset" 199
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/ONT-.uasset" 200
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/ORB-.uasset" 201
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/OXT-.uasset" 202
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/PLT-.uasset" 203
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/PMT-.uasset" 204
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/PST-.uasset" 205
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/SFL-.uasset" 206
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/STR-.uasset" 207
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/TUS-.uasset" 208
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/UST-.uasset" 209
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Dark/WOP-.uasset" 210
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/ALP+.uasset" 211
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/Anso+.uasset" 212
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/BLCH+.uasset" 213
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/Copper+.uasset" 214
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/CRM+.uasset" 215
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/CUS+.uasset" 216
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/DT6+.uasset" 217
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/DT7+.uasset" 218
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/DT8+.uasset" 219
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/FDD+.uasset" 220
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/FTA+.uasset" 221
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/GAM+.uasset" 222
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/HIL+.uasset" 223
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/HOL+.uasset" 224
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/HPP+.uasset" 225
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/ISM+.uasset" 226
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/MGR+.uasset" 227
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/MT+.uasset" 228
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/MTX+.uasset" 229
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/NGH+.uasset" 230
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/Noir+.uasset" 231
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/Noir_02+.uasset" 232
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/Noir_03+.uasset" 233
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/Noir_04+.uasset" 234
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/NRD+.uasset" 235
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/NTO+.uasset" 236
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/ONT+.uasset" 237
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/ORB+.uasset" 238
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/OXT+.uasset" 239
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/PLT+.uasset" 240
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/PMT+.uasset" 241
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/PST+.uasset" 242
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/SFL+.uasset" 243
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/STR+.uasset" 244
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/TUS+.uasset" 245
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/UST+.uasset" 246
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Light/WOP+.uasset" 247
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/ALP.uasset" 248
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/BLCH.uasset" 249
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/FDD.uasset" 250
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/BP_ResourceSpawner.uasset" 251
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Components/SelectableComps/BPC_SelectableConstructionSite.uasset" 252
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/FTA.uasset" 253
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/GAM.uasset" 254
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/NOIR_02.uasset" 255
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/NOIR_03.uasset" 256
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/NOIR_04.uasset" 257
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/NTO.uasset" 258
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/ONT.uasset" 259
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/PTM.uasset" 260
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/SFL.uasset" 261
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/TUS.uasset" 262
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/WOP.uasset" 263
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 264
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 265
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/SkyGradientCurve_02.uasset" 266
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/SkyGradientCurve_01.uasset" 267
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_ValleyMist1.uasset" 268
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_MountainsSun1_2.uasset" 269
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_MountainsSun1.uasset" 270
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_MountainsNear1_2.uasset" 271
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_MountainsNear1.uasset" 272
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_MountainsFar1_2.uasset" 273
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_MountainsFar1.uasset" 274
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_Mist.uasset" 275
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_Interactable1.uasset" 276
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_Forest5.uasset" 277
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_Forest4.uasset" 278
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_Forest3.uasset" 279
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_Forest2.uasset" 280
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/Curve_Forest1.uasset" 281
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Gradients/T_FogGradients.uasset" 282
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/MaterialFunctions/MF_GradientSample.uasset" 283
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothStep.uasset" 284
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/MaterialFunctions/MF_FogGradient.uasset" 285
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/MaterialFunctions/MF_DirectionDot.uasset" 286
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/MaterialFunctions/MF_ColourScale.uasset" 287
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/M_FogMaster.uasset" 288
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_Interaction.uasset" 289
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/M_FogInteractorGlow.uasset" 290
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Blueprints/BP_ExampleFogInteractor.uasset" 291
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_3Directions.uasset" 292
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_4Directions.uasset" 293
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_Forest1.uasset" 294
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_Forest2.uasset" 295
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_Forest3.uasset" 296
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_Forest4.uasset" 297
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_LargeTerrain1.uasset" 298
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_Mist.uasset" 299
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Billboard_Tree_Small_01.uasset" 300
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Billboard_Tree_Large_01.uasset" 301
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ComponentPivotLocation.uasset" 302
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 303
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/Sprite.uasset" 304
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 305
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/M_Billboard_Master.uasset" 306
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_TreeBillBoard_02.uasset" 307
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Leaf_01.uasset" 308
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset" 309
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectPivotPoint.uasset" 310
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 311
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/MF_WindBend.uasset" 312
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/MF_SnowCoverage.uasset" 313
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 314
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 315
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 316
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/M_Leaf_Master.uasset" 317
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_Leaf_01.uasset" 318
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Bark_Birch_NRM.uasset" 319
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Bark_Birch_COL.uasset" 320
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/M_Bark_Master.uasset" 321
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_Bark_Birch_01.uasset" 322
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Tree_Small_01.uasset" 323
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Small_Tree_01.uasset" 324
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Grass_01.uasset" 325
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/RemapValueRange.uasset" 326
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 327
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 328
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Grass_01_COL.uasset" 329
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/RTV_Landscape.uasset" 330
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/M_Grass_Master.uasset" 331
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_Grass_02.uasset" 332
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Grass_01.uasset" 333
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Grass_01.uasset" 334
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Data/FoliageData/PFS_FoliageSpawner.uasset" 335
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_Grass_01.uasset" 336
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Rocks/TX_Rocks_01_ROUGH.uasset" 337
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Rocks/TX_Rocks_01_COL.uasset" 338
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Rocks/TX_Rocks_01_NRM.uasset" 339
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/M_Rock_Master.uasset" 340
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Rocks/MI_Rock_Moss_01.uasset" 341
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Dirt_01_COL.uasset" 342
 "../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Rocks/MI_Rock_Bare_01.uasset" 343
 "../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Scatter_06.uasset" 344
 "../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Scatter_05.uasset" 345
@@ -363,424 +363,447 @@
 "../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Flowers_02.uasset" 362
 "../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Flowers_01.uasset" 363
 "../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Data/FoliageData/LGT_Flowers_01.uasset" 364
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/M_Terrain_Master.uasset" 365
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Terrain/MI_Terrain_02.uasset" 366
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Medium_05.uasset" 367
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Rocks_Medium_05.uasset" 368
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Grass_02.uasset" 369
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Grass_03.uasset" 370
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Grass_04.uasset" 371
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Dirt_01_ROUGH.uasset" 372
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Rock_01_ROUGH.uasset" 373
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Sand_01_ROUGH.uasset" 374
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Geometry/Meshes/CubeMaterial.uasset" 375
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Geometry/Meshes/1M_Cube_Chamfer.uasset" 376
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 377
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 378
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 379
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPersonJump_End.uasset" 380
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 381
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 382
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 383
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Textures/T_Male_N.uasset" 384
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Textures/T_Male_Mask.uasset" 385
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 386
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 387
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 388
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 389
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 390
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 391
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 392
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 393
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 394
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 395
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 396
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/M_Male_Body.uasset" 397
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 398
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Textures/T_Female_N.uasset" 399
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Textures/T_Female_Mask.uasset" 400
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MI_Female_Body.uasset" 401
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 402
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/ThirdPersonBP/ThirdPersonOverview.uasset" 403
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 404
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin.uasset" 405
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPersonWalk.uasset" 406
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPersonRun.uasset" 407
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPersonIdle.uasset" 408
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 409
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPerson_Jump.uasset" 410
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPersonJump_Start.uasset" 411
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 412
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 413
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 414
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 415
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/TestAssets/M_Reflective.uasset" 416
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 417
-"../../../Engine/Content/BasicShapes/Cone.uasset" 418
-"../../../Engine/Content/BasicShapes/Plane.uasset" 419
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 420
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 421
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 422
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 423
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 424
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 425
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 426
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 427
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 428
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 429
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 430
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 431
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 432
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 433
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 434
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 435
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 436
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 437
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 438
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 439
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 440
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 441
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 442
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 443
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 444
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 445
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 446
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 447
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 448
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 449
-"../../../Engine/Content/EditorResources/S_Note.uasset" 450
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 451
-"../../../Engine/Content/EditorResources/S_Terrain.uasset" 452
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 453
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 454
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 455
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 456
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 457
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 458
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 459
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 460
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 461
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 462
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 463
-"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 464
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 465
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 466
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 467
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 468
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 469
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 470
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 471
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 472
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 473
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 474
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 475
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 476
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 477
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 478
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 479
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 480
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 481
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 482
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 483
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 484
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 485
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 486
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 487
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 488
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 489
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 490
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 491
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 492
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 493
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 494
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 495
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 496
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 497
-"../../../Engine/Content/EngineResources/Black.uasset" 498
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 499
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 500
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 501
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 502
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 503
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 504
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 505
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 506
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 507
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 508
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 509
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 510
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 511
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 512
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 513
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 514
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 515
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 516
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 517
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 518
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 519
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 520
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 521
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 522
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 523
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 524
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 525
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 526
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 527
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 528
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 529
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 530
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 531
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 532
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 533
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 534
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 535
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 536
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 537
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 538
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 539
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 540
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 541
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 542
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 543
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 544
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 545
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 546
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 547
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 548
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 549
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 550
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 551
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 552
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 553
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 554
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 555
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 556
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 557
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 558
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 559
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 560
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 561
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 562
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 563
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 564
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 565
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 566
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 567
-"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 568
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 569
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 570
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 571
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 572
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/BP_ResourceSpawner.uasset" 573
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/BP_DebugWorldController.uasset" 574
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/PostProcessing/PPM_Water.uasset" 575
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/PostProcessing/PPM_Highlight.uasset" 576
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/PostProcessing/PPMI_Highight.uasset" 577
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 578
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 579
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 580
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/PPM_Outline.uasset" 581
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/Instances/PPMI_Outline.uasset" 582
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Water/TX_WaterDistortion.uasset" 583
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/M_Water_Master.uasset" 584
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Water/MI_Water_Lake.uasset" 585
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_01.uasset" 586
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 587
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 588
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 589
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 590
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 591
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 592
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/Terrain/M_Terrain_Master.uasset" 593
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/Terrain/MI_Terrain_01.uasset" 594
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Nature/SM_TerrainBlock_01.uasset" 595
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Terrain/BP_TerrainGenerator.uasset" 596
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Maps/DebugWorld.umap" 597
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/MGR.uasset" 598
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Blueprints/MainMenu/MainMenuPlayerController.uasset" 599
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Blueprints/MainMenu/BP_MainMenuPawn.uasset" 600
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Blueprints/MainMenu/MainMenuGameMode.uasset" 601
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Maps/MainMenu/L_MainMenu.umap" 602
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Map_Assets/Meshes/FirstPersonCube_Rounded.uasset" 603
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Map_Assets/Meshes/CubeMesh.uasset" 604
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/UST.uasset" 605
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/STR.uasset" 606
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/PST.uasset" 607
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/PLT.uasset" 608
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/OXT.uasset" 609
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/ORB.uasset" 610
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/NRD.uasset" 611
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/Noir.uasset" 612
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/NGH.uasset" 613
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/MTX.uasset" 614
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/MT.uasset" 615
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/ISM.uasset" 616
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/HPP.uasset" 617
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/HOL.uasset" 618
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/HIL.uasset" 619
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/DT8.uasset" 620
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/DT7.uasset" 621
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/DT6.uasset" 622
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/CUS.uasset" 623
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/CRM.uasset" 624
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/Copper.uasset" 625
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/AUT.uasset" 626
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/Anso.uasset" 627
-"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 628
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Map_Assets/Materials/MI_Template_BaseGray_02.uasset" 629
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Map_Assets/Materials/CubeMaterial.uasset" 630
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama_BuiltData.uasset" 631
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama_Sample_Scene.uasset" 632
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama.umap" 633
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Maps/TestMap_01_BuiltData.uasset" 634
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Maps/TestMap_01.umap" 635
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Foliage_Leaves_N.uasset" 636
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Foliage_Leaves_D.uasset" 637
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Soul_Tree02.uasset" 638
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Meshes/SM_S_BuildingSetA_Tree_02_OP02_S_BuildingSetA_Tree_02_OP02.uasset" 639
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_LV_Soul_Tree02B_N.uasset" 640
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_LV_Soul_Tree02B_D.uasset" 641
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Soul_Tree001.uasset" 642
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_LV_Soul_Tree01_N.uasset" 643
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_LV_Soul_Tree01_D.uasset" 644
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Soul_Pine.uasset" 645
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Meshes/SM_LV_Soul_Tree01_B.uasset" 646
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_LV_Forest_Foliage02_N.uasset" 647
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_LV_Forest_Foliage02_D.uasset" 648
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Soul_Grass04.uasset" 649
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Meshes/SM_LV_Soul_Foliage021SM.uasset" 650
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Cave_LeavePile_N.uasset" 651
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Cave_LeavePile_D.uasset" 652
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Cave_LeafPiles.uasset" 653
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Meshes/SM_Cave_Leaf_Pile01.uasset" 654
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Tree_Aspen_Bark_D.uasset" 655
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Aspen_Tree_Bark.uasset" 656
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Aspen_Tree_Unlit_Blowing.uasset" 657
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/MI_Aspen_Tree_Lit_Blowing.uasset" 658
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Meshes/SM_Aspen_Tree_01.uasset" 659
-"../../../Engine/Content/MapTemplates/Sky/T_UDK_Sky_CloudMask01_N.uasset" 660
-"../../../Engine/Content/MapTemplates/Sky/T_Sky_Stars.uasset" 661
-"../../../Engine/Content/MapTemplates/T_UDK_Sky_CloudMask03.uasset" 662
-"../../../Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER02.uasset" 663
-"../../../Engine/Content/MapTemplates/Sky/SM_SkySphere.uasset" 664
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 665
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_2Directions.uasset" 666
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_TilingNoise03.uasset" 667
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Cave_Dirt_N.uasset" 668
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Cave_Dirt_D.uasset" 669
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 670
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 671
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 672
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Cave_Grass_N.uasset" 673
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Cave_Grass_D.uasset" 674
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Cave_Grass.uasset" 675
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/MI_Cave_Grass_Wave.uasset" 676
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Meshes/SM_Cave_Grass01.uasset" 677
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_sharedassets/PrettyGrassType.uasset" 678
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Terrain/M_PrettyTerrain.uasset" 679
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Soul_Skydome01_M.uasset" 680
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Soul_Skydome01_D.uasset" 681
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Sky.uasset" 682
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_BuiltData.uasset" 683
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_sharedassets/Grass_LayerInfo.uasset" 684
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_sharedassets/Dirt_LayerInfo.uasset" 685
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap.umap" 686
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_LargeTerrain2.uasset" 687
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_LargeMap_sharedassets/PrettyGrassType2.uasset" 688
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Terrain/M_PrettyTerrain_Tessellation.uasset" 689
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Terrain/M_PrettyTerrain_Large.uasset" 690
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_LargeMap_BuiltData.uasset" 691
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_LargeMap_sharedassets/Grass_LayerInfo.uasset" 692
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_LargeMap_sharedassets/Dirt_LayerInfo.uasset" 693
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_LargeMap.umap" 694
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Bark_Oak_NRM.uasset" 695
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Bark_Oak_COL.uasset" 696
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_Bark_Oak_01.uasset" 697
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_TreeStump_03.uasset" 698
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_TreeStump_02.uasset" 699
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_TreeStump_01.uasset" 700
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Tree_Small_02.uasset" 701
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Billboard_Tree_Large_02.uasset" 702
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_TreeBillBoard_03.uasset" 703
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Leaf_02.uasset" 704
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_Leaf_02.uasset" 705
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_Bark_Spruce_01.uasset" 706
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Tree_Large_03.uasset" 707
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_TreeBillBoard_01.uasset" 708
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Tree_Large_02.uasset" 709
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Tree_Large_01.uasset" 710
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Small_06.uasset" 711
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Small_05.uasset" 712
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Small_04.uasset" 713
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Small_03.uasset" 714
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Small_02.uasset" 715
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Small_01.uasset" 716
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Medium_06.uasset" 717
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Medium_04.uasset" 718
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Medium_03.uasset" 719
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Medium_02.uasset" 720
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Medium_01.uasset" 721
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Basalt_06.uasset" 722
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Basalt_05.uasset" 723
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Basalt_04.uasset" 724
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Basalt_03.uasset" 725
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Basalt_02.uasset" 726
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Bushes_04.uasset" 727
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Bushes_03.uasset" 728
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Bushes_02.uasset" 729
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Bushes_01.uasset" 730
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Branches_06.uasset" 731
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Branches_05.uasset" 732
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Branches_04.uasset" 733
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Branches_03.uasset" 734
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Branches_02.uasset" 735
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Branches_01.uasset" 736
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Basalt_01.uasset" 737
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Examples/Meshes/SM_ExampleWaterPlane.uasset" 738
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/PPM_Fog.uasset" 739
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/PostProcessing/PPMI_Fog.uasset" 740
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Examples/StylizedNatureAssetsMap.umap" 741
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Water/MI_Water_Ocean.uasset" 742
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_TreeStump_03.uasset" 743
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_TreeStump_02.uasset" 744
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_TreeStump_01.uasset" 745
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Tree_Large_03.uasset" 746
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Tree_Large_02.uasset" 747
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Tree_Large_01.uasset" 748
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Small_Tree_02.uasset" 749
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Bush_04.uasset" 750
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Bush_03.uasset" 751
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Bush_02.uasset" 752
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Bush_01.uasset" 753
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Branches_03.uasset" 754
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Branches_02.uasset" 755
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Branches_01.uasset" 756
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Terrain/MI_Terrain_01.uasset" 757
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Data/LandscapeLayers/LL_Stone.uasset" 758
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Data/LandscapeLayers/LL_Sand.uasset" 759
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Data/LandscapeLayers/LL_Grass.uasset" 760
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Data/LandscapeLayers/LL_Dirt.uasset" 761
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Examples/StylizedNatureExampleMap.umap" 762
-"../../../Engine/Content/BasicShapes/Cube.uasset" 763
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 764
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/PPM_Pixelate.uasset" 765
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/Instances/PPMI_Pixelate.uasset" 766
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/PPM_KuwaharaFilter.uasset" 767
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/Instances/PPMI_KuwaharaFilter.uasset" 768
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/PPM_CelShader_6Tone.uasset" 769
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/Instances/PPMI_CelShader_6Tone.uasset" 770
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/PPM_CelShader_3Tone.uasset" 771
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/Instances/PPMI_CelShader_3Tone.uasset" 772
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 773
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 774
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Meshes/RampMaterial.uasset" 775
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 776
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 777
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 778
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 779
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 780
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Geometry/Meshes/TemplateFloor.uasset" 781
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Geometry/Meshes/1M_Cube.uasset" 782
-"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 783
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 784
-"../../../Engine/Content/Maps/Entry.umap" 785
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Sand_01_NRM.uasset" 365
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Sand_01_COL.uasset" 366
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Rock_01_NRM.uasset" 367
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Rock_01_COL.uasset" 368
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Dirt_01_NRM.uasset" 369
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 370
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/M_Terrain_Master.uasset" 371
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Terrain/MI_Terrain_02.uasset" 372
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Medium_05.uasset" 373
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Rocks_Medium_05.uasset" 374
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Grass_02.uasset" 375
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Grass_03.uasset" 376
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Grass_04.uasset" 377
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Dirt_01_ROUGH.uasset" 378
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Rock_01_ROUGH.uasset" 379
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Terrain/TX_Terrain_Sand_01_ROUGH.uasset" 380
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Geometry/Meshes/1M_Cube_Chamfer.uasset" 381
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 382
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 383
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 384
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPersonJump_End.uasset" 385
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 386
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 387
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 388
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Textures/T_Male_N.uasset" 389
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Textures/T_Male_Mask.uasset" 390
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 391
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 392
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 393
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 394
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 395
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 396
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 397
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 398
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 399
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 400
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 401
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/M_Male_Body.uasset" 402
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 403
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Textures/T_Female_N.uasset" 404
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Textures/T_Female_Mask.uasset" 405
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Materials/MI_Female_Body.uasset" 406
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 407
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/ThirdPersonBP/ThirdPersonOverview.uasset" 408
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 409
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Character/Mesh/SK_Mannequin.uasset" 410
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPersonWalk.uasset" 411
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPersonRun.uasset" 412
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPersonIdle.uasset" 413
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 414
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPerson_Jump.uasset" 415
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPersonJump_Start.uasset" 416
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 417
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 418
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 419
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 420
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/TestAssets/M_Reflective.uasset" 421
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 422
+"../../../Engine/Content/BasicShapes/Cone.uasset" 423
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 424
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 425
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 426
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 427
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 428
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 429
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 430
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 431
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 432
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 433
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 434
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 435
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 436
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 437
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 438
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 439
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 440
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 441
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 442
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 443
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 444
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 445
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 446
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 447
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 448
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 449
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 450
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 451
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 452
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 453
+"../../../Engine/Content/EditorResources/S_Note.uasset" 454
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 455
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 456
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 457
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 458
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 459
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 460
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 461
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 462
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 463
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 464
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 465
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 466
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 467
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 468
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 469
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 470
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 471
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 472
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 473
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 474
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 475
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 476
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 477
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 478
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 479
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 480
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 481
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 482
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 483
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 484
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 485
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 486
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 487
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 488
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 489
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 490
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 491
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 492
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 493
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 494
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 495
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 496
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 497
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 498
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 499
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 500
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 501
+"../../../Engine/Content/EngineResources/Black.uasset" 502
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 503
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 504
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 505
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 506
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 507
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 508
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 509
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 510
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 511
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 512
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 513
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 514
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 515
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 516
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 517
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 518
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 519
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 520
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 521
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 522
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 523
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 524
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 525
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 526
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 527
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 528
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 529
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 530
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 531
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 532
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 533
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 534
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 535
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 536
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 537
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 538
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 539
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 540
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 541
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 542
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 543
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 544
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 545
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 546
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 547
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 548
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 549
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 550
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 551
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 552
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 553
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 554
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 555
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 556
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 557
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 558
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 559
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 560
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 561
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 562
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 563
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 564
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 565
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 566
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 567
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 568
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 569
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 570
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 571
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 572
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 573
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 574
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 575
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 576
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/MGR.uasset" 577
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/PPMI_Fog_01.uasset" 578
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_01.uasset" 579
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Blueprints/MainMenu/MainMenuPlayerController.uasset" 580
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Blueprints/MainMenu/BP_MainMenuPawn.uasset" 581
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/AutoSettings/Blueprints/MainMenu/MainMenuGameMode.uasset" 582
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Maps/MainMenu/L_MainMenu.umap" 583
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Map_Assets/Meshes/FirstPersonCube_Rounded.uasset" 584
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Map_Assets/Meshes/CubeMesh.uasset" 585
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/UST.uasset" 586
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/STR.uasset" 587
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/PST.uasset" 588
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/PLT.uasset" 589
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/OXT.uasset" 590
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/ORB.uasset" 591
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/NRD.uasset" 592
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/Noir.uasset" 593
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/NGH.uasset" 594
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/MTX.uasset" 595
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/MT.uasset" 596
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/HPP.uasset" 597
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/HOL.uasset" 598
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/HIL.uasset" 599
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/DT8.uasset" 600
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/DT7.uasset" 601
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/DT6.uasset" 602
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/CUS.uasset" 603
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/CRM.uasset" 604
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/Copper.uasset" 605
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/AUT.uasset" 606
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/Anso.uasset" 607
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 608
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Map_Assets/Materials/MI_Template_BaseGray_02.uasset" 609
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Map_Assets/Materials/CubeMaterial.uasset" 610
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 611
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 612
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 613
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 614
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama_BuiltData.uasset" 615
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama_Sample_Scene.uasset" 616
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama/Original/ISM.uasset" 617
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 618
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 619
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 620
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 621
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 622
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/Colorama/Colorama.umap" 623
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/PPM_Outline.uasset" 624
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/Instances/PPMI_Outline.uasset" 625
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Maps/TestMap_01_BuiltData.uasset" 626
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 627
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/Terrain/M_Terrain_Master.uasset" 628
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/Terrain/MI_Terrain_01.uasset" 629
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Nature/SM_TerrainBlock_01.uasset" 630
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Actors/Terrain/BP_TerrainGenerator.uasset" 631
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/Libraries/BFL_GlobalFunctionLibrary.uasset" 632
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/BP_TimeManager.uasset" 633
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Water/TX_WaterNormal.uasset" 634
+"../../../Engine/Content/MapTemplates/TilingNoise05.uasset" 635
+"../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" 636
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 637
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 638
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldAlignedNormals_HighQuality.uasset" 639
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedNormal.uasset" 640
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/M_Water.uasset" 641
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/Environment/MI_Water.uasset" 642
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/PostProcessing/PPM_Highlight.uasset" 643
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/Materials/PostProcessing/PPMI_Highight.uasset" 644
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Maps/TestMap_01.umap" 645
+"../../../Engine/Content/BasicShapes/Plane.uasset" 646
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Terrain/SM_TerrainSlab_04.uasset" 647
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Terrain/SM_TerrainSlab_03.uasset" 648
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Terrain/SM_TerrainSlab_02.uasset" 649
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Terrain/SM_TerrainSlab_01.uasset" 650
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Terrain/SM_SandPlane_04.uasset" 651
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Terrain/SM_SandPlane_03.uasset" 652
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Terrain/SM_SandPlane_02.uasset" 653
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Art/3D/Environment/Terrain/SM_SandPlane_01.uasset" 654
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Core/Blueprints/BP_IslandGenerator.uasset" 655
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/CityBuilder/Maps/TestMap_02.umap" 656
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Foliage_Leaves_N.uasset" 657
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Foliage_Leaves_D.uasset" 658
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Soul_Tree02.uasset" 659
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Meshes/SM_S_BuildingSetA_Tree_02_OP02_S_BuildingSetA_Tree_02_OP02.uasset" 660
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_LV_Soul_Tree02B_N.uasset" 661
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_LV_Soul_Tree02B_D.uasset" 662
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Soul_Tree001.uasset" 663
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_LV_Soul_Tree01_N.uasset" 664
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_LV_Soul_Tree01_D.uasset" 665
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Soul_Pine.uasset" 666
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Meshes/SM_LV_Soul_Tree01_B.uasset" 667
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_LV_Forest_Foliage02_N.uasset" 668
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_LV_Forest_Foliage02_D.uasset" 669
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Soul_Grass04.uasset" 670
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Meshes/SM_LV_Soul_Foliage021SM.uasset" 671
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Cave_LeavePile_N.uasset" 672
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Cave_LeavePile_D.uasset" 673
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Cave_LeafPiles.uasset" 674
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Meshes/SM_Cave_Leaf_Pile01.uasset" 675
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Tree_Aspen_Bark_D.uasset" 676
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Aspen_Tree_Bark.uasset" 677
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Aspen_Tree_Unlit_Blowing.uasset" 678
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/MI_Aspen_Tree_Lit_Blowing.uasset" 679
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Meshes/SM_Aspen_Tree_01.uasset" 680
+"../../../Engine/Content/MapTemplates/Sky/T_UDK_Sky_CloudMask01_N.uasset" 681
+"../../../Engine/Content/MapTemplates/Sky/T_Sky_Stars.uasset" 682
+"../../../Engine/Content/MapTemplates/T_UDK_Sky_CloudMask03.uasset" 683
+"../../../Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER02.uasset" 684
+"../../../Engine/Content/MapTemplates/Sky/SM_SkySphere.uasset" 685
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 686
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_2Directions.uasset" 687
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_TilingNoise03.uasset" 688
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Cave_Dirt_N.uasset" 689
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Cave_Dirt_D.uasset" 690
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 691
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 692
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 693
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Cave_Grass_N.uasset" 694
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Cave_Grass_D.uasset" 695
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Cave_Grass.uasset" 696
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/MI_Cave_Grass_Wave.uasset" 697
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Meshes/SM_Cave_Grass01.uasset" 698
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_sharedassets/PrettyGrassType.uasset" 699
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Terrain/M_PrettyTerrain.uasset" 700
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Soul_Skydome01_M.uasset" 701
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Textures/T_Soul_Skydome01_D.uasset" 702
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Environment/M_Sky.uasset" 703
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_BuiltData.uasset" 704
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_sharedassets/Grass_LayerInfo.uasset" 705
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_sharedassets/Dirt_LayerInfo.uasset" 706
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap.umap" 707
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/Materials/MI_Fog_LargeTerrain2.uasset" 708
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_LargeMap_sharedassets/PrettyGrassType2.uasset" 709
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Terrain/M_PrettyTerrain_Tessellation.uasset" 710
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Materials/Terrain/M_PrettyTerrain_Large.uasset" 711
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_LargeMap_BuiltData.uasset" 712
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_LargeMap_sharedassets/Grass_LayerInfo.uasset" 713
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_LargeMap_sharedassets/Dirt_LayerInfo.uasset" 714
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/FogGradients/ExampleContent/Maps/ExampleMap_LargeMap.umap" 715
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_TreeBillBoard_01.uasset" 716
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Bark_Oak_NRM.uasset" 717
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Bark_Oak_COL.uasset" 718
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_Bark_Oak_01.uasset" 719
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Tree_Large_02.uasset" 720
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Tree_Large_01.uasset" 721
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Small_06.uasset" 722
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Small_05.uasset" 723
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Small_04.uasset" 724
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Small_03.uasset" 725
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Small_02.uasset" 726
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Small_01.uasset" 727
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Medium_06.uasset" 728
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Medium_04.uasset" 729
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Medium_03.uasset" 730
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Medium_02.uasset" 731
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Medium_01.uasset" 732
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Basalt_06.uasset" 733
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Basalt_05.uasset" 734
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Basalt_04.uasset" 735
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Basalt_03.uasset" 736
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Basalt_02.uasset" 737
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Bushes_04.uasset" 738
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Bushes_03.uasset" 739
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Bushes_02.uasset" 740
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Bushes_01.uasset" 741
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Branches_06.uasset" 742
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Branches_05.uasset" 743
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Branches_04.uasset" 744
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Branches_03.uasset" 745
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Branches_02.uasset" 746
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Branches_01.uasset" 747
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Rocks_Basalt_01.uasset" 748
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Water/TX_WaterDistortion.uasset" 749
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/M_Water_Master.uasset" 750
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Water/MI_Water_Lake.uasset" 751
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Examples/Meshes/SM_ExampleWaterPlane.uasset" 752
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/MasterMaterials/PPM_Fog.uasset" 753
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/PostProcessing/PPMI_Fog.uasset" 754
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_TreeStump_03.uasset" 755
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_TreeStump_02.uasset" 756
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_TreeStump_01.uasset" 757
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Tree_Small_02.uasset" 758
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Billboard_Tree_Large_02.uasset" 759
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_TreeBillBoard_03.uasset" 760
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Textures/Foliage/TX_Leaf_02.uasset" 761
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_Leaf_02.uasset" 762
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Foliage/MI_Bark_Spruce_01.uasset" 763
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/SM_Tree_Large_03.uasset" 764
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Examples/StylizedNatureAssetsMap.umap" 765
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Data/LandscapeLayers/LL_Stone.uasset" 766
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Data/LandscapeLayers/LL_Sand.uasset" 767
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Data/LandscapeLayers/LL_Grass.uasset" 768
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Data/LandscapeLayers/LL_Dirt.uasset" 769
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Water/MI_Water_Ocean.uasset" 770
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_TreeStump_03.uasset" 771
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_TreeStump_02.uasset" 772
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_TreeStump_01.uasset" 773
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Tree_Large_03.uasset" 774
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Tree_Large_02.uasset" 775
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Tree_Large_01.uasset" 776
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Small_Tree_02.uasset" 777
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Bush_04.uasset" 778
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Bush_03.uasset" 779
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Bush_02.uasset" 780
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Bush_01.uasset" 781
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Branches_03.uasset" 782
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Branches_02.uasset" 783
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Meshes/FoliageAssets/F_Branches_01.uasset" 784
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Materials/Terrain/MI_Terrain_01.uasset" 785
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPaintedNature/Examples/StylizedNatureExampleMap.umap" 786
+"../../../Engine/Content/BasicShapes/Cube.uasset" 787
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 788
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/PPM_Pixelate.uasset" 789
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/Instances/PPMI_Pixelate.uasset" 790
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/PPM_KuwaharaFilter.uasset" 791
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/Instances/PPMI_KuwaharaFilter.uasset" 792
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/PPM_CelShader_6Tone.uasset" 793
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/Instances/PPMI_CelShader_6Tone.uasset" 794
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/PPM_CelShader_3Tone.uasset" 795
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Materials/Instances/PPMI_CelShader_3Tone.uasset" 796
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 797
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 798
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Meshes/RampMaterial.uasset" 799
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 800
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 801
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 802
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 803
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 804
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/Geometry/Meshes/TemplateFloor.uasset" 805
+"../../../../../../Users/mrtho/Documents/Unreal Projects/RougeliteCityBuilder/Content/StylizedPPPack/Demo/ThirdPerson/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 806
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 807
+"../../../Engine/Content/Maps/Entry.umap" 808
